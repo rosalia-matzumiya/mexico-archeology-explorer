@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Chichén Itzá",
+    "region": "Yucatán",
+    "culture": "Maya",
+    "period": "600–1200 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg",
+    "description": "One of the most famous Maya archaeological sites, known for the Temple of Kukulcán."
+  },
+  {
+    "id": 2,
+    "name": "Teotihuacan",
+    "region": "Estado de México",
+    "culture": "Teotihuacan",
+    "period": "100 BCE – 550 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Teotihuacan_Pyramid_of_the_Sun.jpg",
+    "description": "Ancient Mesoamerican city famous for the Pyramid of the Sun and the Avenue of the Dead."
+  },
+  {
+    "id": 3,
+    "name": "Palenque",
+    "region": "Chiapas",
+    "culture": "Maya",
+    "period": "226 BCE – 799 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Palenque_Ruins.jpg",
+    "description": "Maya city known for its elegant architecture and inscriptions."
+  },
+  {
+    "id": 4,
+    "name": "Monte Albán",
+    "region": "Oaxaca",
+    "culture": "Zapotec",
+    "period": "500 BCE – 750 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Monte_Alban_Plaza.jpg",
+    "description": "Major Zapotec ceremonial center overlooking the Oaxaca Valley."
+  },
+  {
+    "id": 5,
+    "name": "Tulum",
+    "region": "Quintana Roo",
+    "culture": "Maya",
+    "period": "1200–1500 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tulum_ruins.jpg",
+    "description": "Coastal Maya city overlooking the Caribbean Sea."
+  },
+  {
+    "id": 6,
+    "name": "Uxmal",
+    "region": "Yucatán",
+    "culture": "Maya",
+    "period": "700–1000 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Uxmal_Pyramid_of_the_Magician.jpg",
+    "description": "Important Maya city known for the Pyramid of the Magician."
+  },
+  {
+    "id": 7,
+    "name": "Calakmul",
+    "region": "Campeche",
+    "culture": "Maya",
+    "period": "250–900 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Calakmul_structure_II.jpg",
+    "description": "One of the largest Maya cities, deep in the jungles of Campeche."
+  },
+  {
+    "id": 8,
+    "name": "El Tajín",
+    "region": "Veracruz",
+    "culture": "Totonac",
+    "period": "600–1200 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/El_Tajin_Pyramid_of_the_Niches.jpg",
+    "description": "Famous for the Pyramid of the Niches and intricate stone carvings."
+  },
+  {
+    "id": 9,
+    "name": "Cobá",
+    "region": "Quintana Roo",
+    "culture": "Maya",
+    "period": "600–900 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Coba_Nohoch_Mul.jpg",
+    "description": "Large Maya site with the tallest pyramid in the Yucatán Peninsula."
+  },
+  {
+    "id": 10,
+    "name": "Edzná",
+    "region": "Campeche",
+    "culture": "Maya",
+    "period": "600–900 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Edzna_Temple.jpg",
+    "description": "Archaeological site with a large ceremonial complex and temples."
+  },
+  {
+    "id": 11,
+    "name": "Xochicalco",
+    "region": "Morelos",
+    "culture": "Epiclassic Mesoamerican",
+    "period": "650–900 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Xochicalco.jpg",
+    "description": "Fortified hilltop city known for astronomical observatories."
+  },
+  {
+    "id": 12,
+    "name": "Mitla",
+    "region": "Oaxaca",
+    "culture": "Zapotec",
+    "period": "900–1500 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mitla_ruins.jpg",
+    "description": "Famous for its intricate geometric mosaic stonework."
+  },
+  {
+    "id": 13,
+    "name": "Bonampak",
+    "region": "Chiapas",
+    "culture": "Maya",
+    "period": "580–800 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bonampak_Murals.jpg",
+    "description": "Known for its remarkably preserved Maya murals."
+  },
+  {
+    "id": 14,
+    "name": "Yaxchilán",
+    "region": "Chiapas",
+    "culture": "Maya",
+    "period": "350–800 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Yaxchilan.jpg",
+    "description": "Maya city located along the Usumacinta River."
+  },
+  {
+    "id": 15,
+    "name": "Tula",
+    "region": "Hidalgo",
+    "culture": "Toltec",
+    "period": "900–1150 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tula_Atlantes.jpg",
+    "description": "Toltec capital famous for its giant warrior statues."
+  },
+  {
+    "id": 16,
+    "name": "La Venta",
+    "region": "Tabasco",
+    "culture": "Olmec",
+    "period": "900–400 BCE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/La_Venta.jpg",
+    "description": "Important Olmec ceremonial center with colossal heads."
+  },
+  {
+    "id": 17,
+    "name": "San Lorenzo",
+    "region": "Veracruz",
+    "culture": "Olmec",
+    "period": "1200–900 BCE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/San_Lorenzo_Olmec.jpg",
+    "description": "One of the earliest major Olmec cities."
+  },
+  {
+    "id": 18,
+    "name": "Comalcalco",
+    "region": "Tabasco",
+    "culture": "Maya",
+    "period": "700–900 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Comalcalco.jpg",
+    "description": "Unique Maya city built primarily with bricks instead of stone."
+  },
+  {
+    "id": 19,
+    "name": "Ek' Balam",
+    "region": "Yucatán",
+    "culture": "Maya",
+    "period": "600–900 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ek_Balam.jpg",
+    "description": "Known for its impressive stucco sculptures."
+  },
+  {
+    "id": 20,
+    "name": "Dzibilchaltún",
+    "region": "Yucatán",
+    "culture": "Maya",
+    "period": "600–900 CE",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dzibilchaltun.jpg",
+    "description": "Site famous for the Temple of the Seven Dolls aligned with the equinox."
+  }
+]
