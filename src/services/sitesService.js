@@ -1,10 +1,7 @@
-const { cache } = require("react");
 
-
-
+let sitesCache = null;
 
 async function getSites() {
-  let sitesCache = null;
 
   if (!sitesCache) {
     const response = await fetch("/data/sites.json");
@@ -35,4 +32,10 @@ async function searchSites(searchString) {
   }
   return match;
 
+}
+
+export const sitesService = {
+  getSites,
+  getSiteById,
+  searchSites
 }

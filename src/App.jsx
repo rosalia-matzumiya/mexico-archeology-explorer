@@ -1,5 +1,6 @@
-import SiteList from './components/SitesList'
+import HomePage from './pages/HomePage'
 import './App.css'
+
 
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
   return (
     <div>
       <h1>Mexico Archaeology Explorer</h1>
-      <SiteList />
+      <HomePage />
     </div>
   )
 }
