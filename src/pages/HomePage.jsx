@@ -1,5 +1,6 @@
 import { useEffect } from "react"
 import { useState } from "react"
+import SiteCard from "../components/SiteCard"
 import { sitesService } from "../services/sitesService"
 
 function HomePage() {
@@ -27,9 +28,8 @@ function HomePage() {
       {error && <p>Error: {error}</p>}
       <ul>
         {sites.map(site =>
-          <li key={site.id}>
-            {site.name?.[lang]} - {site.location?.[lang]}
-          </li>)}
+          <SiteCard key={site.id} site={site} lang={lang} />
+        )}
       </ul>
     </div>
   )
