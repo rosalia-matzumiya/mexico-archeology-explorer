@@ -1,11 +1,14 @@
-import { useState } from 'react'
+import HomePage from './pages/HomePage'
 import './App.css'
+
+
 
 function App() {
 
   return (
     <div>
       <h1>Mexico Archaeology Explorer</h1>
+      <HomePage />
     </div>
   )
 }

@@ -1,0 +1,754 @@
+{
+  "sites": [
+    {
+      "id": "teotihuacan",
+      "name": {
+        "es": "Teotihuacán",
+        "en": "Teotihuacan"
+      },
+      "location": {
+        "es": "Estado de México",
+        "en": "State of Mexico"
+      },
+      "culture": {
+        "es": "Teotihuacana",
+        "en": "Teotihuacan"
+      },
+      "period": {
+        "es": "100 a.C. – 550 d.C.",
+        "en": "100 BC – 550 AD"
+      },
+      "coordinates": {
+        "lat": 19.6925,
+        "lng": -98.8439
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/Teotihuacan_Pyramid_of_the_Sun.jpg"
+      ],
+      "description": {
+        "es": "Una de las ciudades antiguas más grandes de Mesoamérica.",
+        "en": "One of the largest ancient cities in Mesoamerica."
+      }
+    },
+    {
+      "id": "tamtoc",
+      "name": {
+        "es": "Tamtoc",
+        "en": "Tamtoc"
+      },
+      "location": {
+        "es": "San Luis Potosí",
+        "en": "San Luis Potosi"
+      },
+      "culture": {
+        "es": "Huasteca",
+        "en": "Huastec"
+      },
+      "period": {
+        "es": "600 a.C. – 1500 d.C.",
+        "en": "600 BC – 1500 AD"
+      },
+      "coordinates": {
+        "lat": 21.916,
+        "lng": -98.783
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6c/Tamtoc.jpg"
+      ],
+      "description": {
+        "es": "Importante centro ceremonial de la cultura huasteca.",
+        "en": "Important ceremonial center of the Huastec culture."
+      }
+    },
+    {
+      "id": "cacaxtla",
+      "name": {
+        "es": "Cacaxtla",
+        "en": "Cacaxtla"
+      },
+      "location": {
+        "es": "Tlaxcala",
+        "en": "Tlaxcala"
+      },
+      "culture": {
+        "es": "Olmeca-Xicalanca",
+        "en": "Olmeca-Xicalanca"
+      },
+      "period": {
+        "es": "650 – 900 d.C.",
+        "en": "650 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 19.245,
+        "lng": -98.168
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Cacaxtla.jpg"
+      ],
+      "description": {
+        "es": "Famosa por sus murales bien conservados.",
+        "en": "Famous for its well-preserved murals."
+      }
+    },
+    {
+      "id": "cantona",
+      "name": {
+        "es": "Cantona",
+        "en": "Cantona"
+      },
+      "location": {
+        "es": "Puebla",
+        "en": "Puebla"
+      },
+      "culture": {
+        "es": "Mesoamericana",
+        "en": "Mesoamerican"
+      },
+      "period": {
+        "es": "600 – 1000 d.C.",
+        "en": "600 – 1000 AD"
+      },
+      "coordinates": {
+        "lat": 19.562,
+        "lng": -97.38
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/05/Cantona.jpg"
+      ],
+      "description": {
+        "es": "Una de las ciudades más grandes del Altiplano.",
+        "en": "One of the largest cities of the highlands."
+      }
+    },
+    {
+      "id": "cuicuilco",
+      "name": {
+        "es": "Cuicuilco",
+        "en": "Cuicuilco"
+      },
+      "location": {
+        "es": "Ciudad de México",
+        "en": "Mexico City"
+      },
+      "culture": {
+        "es": "Preclásica",
+        "en": "Preclassic"
+      },
+      "period": {
+        "es": "800 a.C. – 200 d.C.",
+        "en": "800 BC – 200 AD"
+      },
+      "coordinates": {
+        "lat": 19.306,
+        "lng": -99.187
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/Cuicuilco.jpg"
+      ],
+      "description": {
+        "es": "Sitio con una pirámide circular única.",
+        "en": "Site with a unique circular pyramid."
+      }
+    },
+    {
+      "id": "cholula",
+      "name": {
+        "es": "Cholula",
+        "en": "Cholula"
+      },
+      "location": {
+        "es": "Puebla",
+        "en": "Puebla"
+      },
+      "culture": {
+        "es": "Mesoamericana",
+        "en": "Mesoamerican"
+      },
+      "period": {
+        "es": "200 a.C. – 1500 d.C.",
+        "en": "200 BC – 1500 AD"
+      },
+      "coordinates": {
+        "lat": 19.055,
+        "lng": -98.303
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cholula_pyramid.jpg"
+      ],
+      "description": {
+        "es": "La pirámide más grande en volumen del mundo.",
+        "en": "The largest pyramid by volume in the world."
+      }
+    },
+    {
+      "id": "malinalco",
+      "name": {
+        "es": "Malinalco",
+        "en": "Malinalco"
+      },
+      "location": {
+        "es": "Estado de México",
+        "en": "State of Mexico"
+      },
+      "culture": {
+        "es": "Mexica",
+        "en": "Aztec"
+      },
+      "period": {
+        "es": "1400 – 1521 d.C.",
+        "en": "1400 – 1521 AD"
+      },
+      "coordinates": {
+        "lat": 18.948,
+        "lng": -99.497
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Malinalco.jpg"
+      ],
+      "description": {
+        "es": "Templo monolítico tallado en la roca.",
+        "en": "Monolithic temple carved into rock."
+      }
+    },
+    {
+      "id": "yacata_tzintzuntzan",
+      "name": {
+        "es": "Tzintzuntzan",
+        "en": "Tzintzuntzan"
+      },
+      "location": {
+        "es": "Michoacán",
+        "en": "Michoacan"
+      },
+      "culture": {
+        "es": "Purépecha",
+        "en": "Purepecha"
+      },
+      "period": {
+        "es": "1200 – 1521 d.C.",
+        "en": "1200 – 1521 AD"
+      },
+      "coordinates": {
+        "lat": 19.631,
+        "lng": -101.63
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Tzintzuntzan.jpg"
+      ],
+      "description": {
+        "es": "Capital del imperio purépecha.",
+        "en": "Capital of the Purepecha empire."
+      }
+    },
+    {
+      "id": "peralta",
+      "name": {
+        "es": "Peralta",
+        "en": "Peralta"
+      },
+      "location": {
+        "es": "Guanajuato",
+        "en": "Guanajuato"
+      },
+      "culture": {
+        "es": "Bajío",
+        "en": "Bajio culture"
+      },
+      "period": {
+        "es": "300 – 700 d.C.",
+        "en": "300 – 700 AD"
+      },
+      "coordinates": {
+        "lat": 20.535,
+        "lng": -101.242
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/Peralta.jpg"
+      ],
+      "description": {
+        "es": "Importante centro ceremonial del Bajío.",
+        "en": "Important ceremonial center of the Bajio region."
+      }
+    },
+    {
+      "id": "plazuelas",
+      "name": {
+        "es": "Plazuelas",
+        "en": "Plazuelas"
+      },
+      "location": {
+        "es": "Guanajuato",
+        "en": "Guanajuato"
+      },
+      "culture": {
+        "es": "Bajío",
+        "en": "Bajio culture"
+      },
+      "period": {
+        "es": "600 – 900 d.C.",
+        "en": "600 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 20.45,
+        "lng": -101.17
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Plazuelas.jpg"
+      ],
+      "description": {
+        "es": "Sitio con plazas y estructuras ceremoniales.",
+        "en": "Site with plazas and ceremonial structures."
+      }
+    },
+    {
+      "id": "alta_vista",
+      "name": {
+        "es": "Alta Vista",
+        "en": "Alta Vista"
+      },
+      "location": {
+        "es": "Zacatecas",
+        "en": "Zacatecas"
+      },
+      "culture": {
+        "es": "Chalchihuites",
+        "en": "Chalchihuites"
+      },
+      "period": {
+        "es": "200 – 900 d.C.",
+        "en": "200 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 23.48,
+        "lng": -103.85
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Alta_Vista.jpg"
+      ],
+      "description": {
+        "es": "Centro ceremonial con alineaciones astronómicas.",
+        "en": "Ceremonial center with astronomical alignments."
+      }
+    },
+    {
+      "id": "paquime",
+      "name": {
+        "es": "Paquimé",
+        "en": "Paquime"
+      },
+      "location": {
+        "es": "Chihuahua",
+        "en": "Chihuahua"
+      },
+      "culture": {
+        "es": "Casas Grandes",
+        "en": "Casas Grandes"
+      },
+      "period": {
+        "es": "1200 – 1450 d.C.",
+        "en": "1200 – 1450 AD"
+      },
+      "coordinates": {
+        "lat": 30.37,
+        "lng": -107.95
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3c/Paquime.jpg"
+      ],
+      "description": {
+        "es": "Ciudad de adobe en el norte de México.",
+        "en": "Adobe city in northern Mexico."
+      }
+    },
+    {
+      "id": "la_quemada",
+      "name": {
+        "es": "La Quemada",
+        "en": "La Quemada"
+      },
+      "location": {
+        "es": "Zacatecas",
+        "en": "Zacatecas"
+      },
+      "culture": {
+        "es": "Mesoamericana",
+        "en": "Mesoamerican"
+      },
+      "period": {
+        "es": "500 – 900 d.C.",
+        "en": "500 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 22.82,
+        "lng": -102.8
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/La_Quemada.jpg"
+      ],
+      "description": {
+        "es": "Centro ceremonial en una colina.",
+        "en": "Ceremonial center on a hill."
+      }
+    },
+    {
+      "id": "huapalcalco",
+      "name": {
+        "es": "Huapalcalco",
+        "en": "Huapalcalco"
+      },
+      "location": {
+        "es": "Hidalgo",
+        "en": "Hidalgo"
+      },
+      "culture": {
+        "es": "Preclásica",
+        "en": "Preclassic"
+      },
+      "period": {
+        "es": "1000 a.C. – 200 d.C.",
+        "en": "1000 BC – 200 AD"
+      },
+      "coordinates": {
+        "lat": 20.12,
+        "lng": -98.35
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Huapalcalco.jpg"
+      ],
+      "description": {
+        "es": "Uno de los asentamientos más antiguos del centro de México.",
+        "en": "One of the oldest settlements in central Mexico."
+      }
+    },
+    {
+      "id": "coatetelco",
+      "name": {
+        "es": "Coatetelco",
+        "en": "Coatetelco"
+      },
+      "location": {
+        "es": "Morelos",
+        "en": "Morelos"
+      },
+      "culture": {
+        "es": "Tlahuica",
+        "en": "Tlahuica"
+      },
+      "period": {
+        "es": "1200 – 1521 d.C.",
+        "en": "1200 – 1521 AD"
+      },
+      "coordinates": {
+        "lat": 18.73,
+        "lng": -99.32
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/Coatetelco.jpg"
+      ],
+      "description": {
+        "es": "Centro ceremonial cercano a un lago.",
+        "en": "Ceremonial center near a lake."
+      }
+    },
+    {
+      "id": "zazacatla",
+      "name": {
+        "es": "Zazacatla",
+        "en": "Zazacatla"
+      },
+      "location": {
+        "es": "Morelos",
+        "en": "Morelos"
+      },
+      "culture": {
+        "es": "Olmeca",
+        "en": "Olmec"
+      },
+      "period": {
+        "es": "800 – 500 a.C.",
+        "en": "800 – 500 BC"
+      },
+      "coordinates": {
+        "lat": 18.73,
+        "lng": -99.25
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/Zazacatla.jpg"
+      ],
+      "description": {
+        "es": "Sitio con influencia olmeca temprana.",
+        "en": "Site with early Olmec influence."
+      }
+    },
+    {
+      "id": "tingambato",
+      "name": {
+        "es": "Tingambato",
+        "en": "Tingambato"
+      },
+      "location": {
+        "es": "Michoacán",
+        "en": "Michoacan"
+      },
+      "culture": {
+        "es": "Mesoamericana",
+        "en": "Mesoamerican"
+      },
+      "period": {
+        "es": "300 – 900 d.C.",
+        "en": "300 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 19.49,
+        "lng": -101.86
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tingambato.jpg"
+      ],
+      "description": {
+        "es": "Centro ceremonial con influencias teotihuacanas.",
+        "en": "Ceremonial center with Teotihuacan influences."
+      }
+    },
+    {
+      "id": "ihuatzio",
+      "name": {
+        "es": "Ihuatzio",
+        "en": "Ihuatzio"
+      },
+      "location": {
+        "es": "Michoacán",
+        "en": "Michoacan"
+      },
+      "culture": {
+        "es": "Purépecha",
+        "en": "Purepecha"
+      },
+      "period": {
+        "es": "1200 – 1521 d.C.",
+        "en": "1200 – 1521 AD"
+      },
+      "coordinates": {
+        "lat": 19.57,
+        "lng": -101.64
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ihuatzio.jpg"
+      ],
+      "description": {
+        "es": "Importante sitio del imperio purépecha.",
+        "en": "Important site of the Purepecha empire."
+      }
+    },
+    {
+      "id": "tenam_puente",
+      "name": {
+        "es": "Tenam Puente",
+        "en": "Tenam Puente"
+      },
+      "location": {
+        "es": "Chiapas",
+        "en": "Chiapas"
+      },
+      "culture": {
+        "es": "Maya",
+        "en": "Maya"
+      },
+      "period": {
+        "es": "300 – 900 d.C.",
+        "en": "300 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 16.3,
+        "lng": -91.7
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/Tenam_Puente.jpg"
+      ],
+      "description": {
+        "es": "Sitio maya en la región montañosa de Chiapas.",
+        "en": "Maya site in the mountainous region of Chiapas."
+      }
+    },
+    {
+      "id": "lagartero",
+      "name": {
+        "es": "Lagartero",
+        "en": "Lagartero"
+      },
+      "location": {
+        "es": "Chiapas",
+        "en": "Chiapas"
+      },
+      "culture": {
+        "es": "Maya",
+        "en": "Maya"
+      },
+      "period": {
+        "es": "300 – 900 d.C.",
+        "en": "300 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 16.12,
+        "lng": -91.68
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lagartero.jpg"
+      ],
+      "description": {
+        "es": "Sitio rodeado de lagunas y vegetación.",
+        "en": "Site surrounded by lagoons and vegetation."
+      }
+    },
+    {
+      "id": "becan",
+      "name": {
+        "es": "Becán",
+        "en": "Becan"
+      },
+      "location": {
+        "es": "Campeche",
+        "en": "Campeche"
+      },
+      "culture": {
+        "es": "Maya",
+        "en": "Maya"
+      },
+      "period": {
+        "es": "600 a.C. – 900 d.C.",
+        "en": "600 BC – 900 AD"
+      },
+      "coordinates": {
+        "lat": 18.52,
+        "lng": -89.47
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8f/Becan.jpg"
+      ],
+      "description": {
+        "es": "Ciudad maya fortificada con un foso.",
+        "en": "Fortified Maya city with a moat."
+      }
+    },
+    {
+      "id": "chicanna",
+      "name": {
+        "es": "Chicanná",
+        "en": "Chicanna"
+      },
+      "location": {
+        "es": "Campeche",
+        "en": "Campeche"
+      },
+      "culture": {
+        "es": "Maya",
+        "en": "Maya"
+      },
+      "period": {
+        "es": "300 – 900 d.C.",
+        "en": "300 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 18.51,
+        "lng": -89.46
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Chicanna.jpg"
+      ],
+      "description": {
+        "es": "Famosa por su arquitectura decorada.",
+        "en": "Famous for its decorated architecture."
+      }
+    },
+    {
+      "id": "xpuhil",
+      "name": {
+        "es": "Xpuhil",
+        "en": "Xpuhil"
+      },
+      "location": {
+        "es": "Campeche",
+        "en": "Campeche"
+      },
+      "culture": {
+        "es": "Maya",
+        "en": "Maya"
+      },
+      "period": {
+        "es": "300 – 900 d.C.",
+        "en": "300 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 18.51,
+        "lng": -89.42
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/Xpuhil.jpg"
+      ],
+      "description": {
+        "es": "Sitio maya con estructuras de tres torres.",
+        "en": "Maya site with three-tower structures."
+      }
+    },
+    {
+      "id": "hormiguero",
+      "name": {
+        "es": "Hormiguero",
+        "en": "Hormiguero"
+      },
+      "location": {
+        "es": "Campeche",
+        "en": "Campeche"
+      },
+      "culture": {
+        "es": "Maya",
+        "en": "Maya"
+      },
+      "period": {
+        "es": "600 – 900 d.C.",
+        "en": "600 – 900 AD"
+      },
+      "coordinates": {
+        "lat": 18.46,
+        "lng": -89.48
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/Hormiguero.jpg"
+      ],
+      "description": {
+        "es": "Destaca por su fachada zoomorfa.",
+        "en": "Known for its zoomorphic facade."
+      }
+    },
+    {
+      "id": "sayil",
+      "name": {
+        "es": "Sayil",
+        "en": "Sayil"
+      },
+      "location": {
+        "es": "Yucatán",
+        "en": "Yucatan"
+      },
+      "culture": {
+        "es": "Maya",
+        "en": "Maya"
+      },
+      "period": {
+        "es": "800 – 1000 d.C.",
+        "en": "800 – 1000 AD"
+      },
+      "coordinates": {
+        "lat": 20.18,
+        "lng": -89.65
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sayil.jpg"
+      ],
+      "description": {
+        "es": "Sitio maya del estilo Puuc.",
+        "en": "Maya site of the Puuc style."
+      }
+    }
+  ]
+}
