@@ -1,0 +1,34 @@
+{
+  "sites": [
+    {
+      "id": "teotihuacan",
+      "name": {
+        "es": "Teotihuacán",
+        "en": "Teotihuacan"
+      },
+      "location": {
+        "es": "Estado de México",
+        "en": "State of Mexico"
+      },
+      "culture": {
+        "es": "Teotihuacana",
+        "en": "Teotihuacan"
+      },
+      "period": {
+        "es": "100 a.C. – 550 d.C.",
+        "en": "100 BC – 550 AD"
+      },
+      "coordinates": {
+        "lat": 19.6925,
+        "lng": -98.8439
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/Teotihuacan_Pyramid_of_the_Sun.jpg"
+      ],
+      "description": {
+        "es": "Una de las ciudades antiguas más grandes de Mesoamérica.",
+        "en": "One of the largest ancient cities in Mesoamerica."
+      }
+    }
+  ]
+}
